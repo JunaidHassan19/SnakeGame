@@ -1,5 +1,6 @@
 # SnakeGame
-!Snake Game Screenshot
+![SnakeGame2](https://github.com/user-attachments/assets/8eca45cf-3e20-4f7c-b000-5715f6f182ce)
+
 
 # Description
 The Snake Game is a classic arcade game where the player controls a snake that grows longer as it consumes food. The objective is to avoid collisions with the walls or the snake’s own body while collecting food items.
