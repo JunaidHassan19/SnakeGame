@@ -1,5 +1,6 @@
 # SnakeGame
-![SnakeGame2](https://github.com/user-attachments/assets/8eca45cf-3e20-4f7c-b000-5715f6f182ce)
+![Screenshot (1)](https://github.com/user-attachments/assets/a82b679c-5997-4823-984a-365649be5262)
+
 
 
 # Description
